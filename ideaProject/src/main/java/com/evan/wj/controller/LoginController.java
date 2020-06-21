@@ -22,7 +22,7 @@ public class LoginController {
             System.out.println("test");
             return new Result(400);
         } else {
-            return new Result(200);
+            return new Result(2000);
         }
     }
 }
